@@ -7,6 +7,7 @@
 * Phone: 8 (707) 649 21 97 
 * E-mail: zhanbolat.mukan2004@gmail.com
 * Telegram: @ZhSherl
+* [LinkedIn](https://www.linkedin.com/in/zhanbolat-mukan-44177826a/ "Link to LinkedIn")
 
 ---
 ### Briefly About  Myself
