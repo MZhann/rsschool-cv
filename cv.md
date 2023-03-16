@@ -55,6 +55,8 @@ We drop one ball at the top of each column of the box. Each ball can get stuck i
 
 Return an array answer of size n where answer[i] is the column that the ball falls out of at the bottom after dropping the ball from the ith column at the top, or -1 if the ball gets stuck in the box.
 
+```
+
 var findBall = function(grid) 
 {
     const rows = grid.length;
@@ -91,7 +93,11 @@ var findBall = function(grid)
     
     return result;
 };
+
+```
+
 ---
+
 ### Experience
 
 ---
@@ -105,3 +111,10 @@ var findBall = function(grid)
 
 
 ---
+
+### Languages:
+
+* English - Intermediate/ Upper-intermediate (according to the university)
+* Russian - C2
+* Kazakh - Native
+* Turkish - A2
